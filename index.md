@@ -28,7 +28,7 @@ Research Interests:
 social and symbolic boundaries; race and ethnicity; immigration; political sociology; computational social science
 
 More info here
-[See my CV for my research and teaching.](https://hartmannbs.github.io/sociology/images/HartmannCV_01132020.pdf)
+[See my CV for my research and teaching.](https://hartmannbs.github.io/socnerd/img/HartmannCV_01132020.pdf)
 
 
 
