@@ -4,7 +4,9 @@ layout: default
 Benjamin Swartz Hartmann
 ---
 Sociology
+<br></br>
 Doctoral Student
+<br></br>
 Indiana Univeristy 
 
 Research Interests:
