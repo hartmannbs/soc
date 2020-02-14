@@ -21,16 +21,14 @@ Additionally, I am passionate about methodology and methodological education. I 
 Current Projects:
 ---
 Short thing about projects
-[Link to page with project descriptions](link)
+[Link to page with project descriptions]()
 
 Research Interests:
 ---
 social and symbolic boundaries; race and ethnicity; immigration; political sociology; computational social science
 
-Teaching:
----
 More info here
-[See my CV for my research and teaching.](link)
+[See my CV for my research and teaching.](https://hartmannbs.github.io/sociology/images/HartmannCV_01132020.pdf)
 
 
 
