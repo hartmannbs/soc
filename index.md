@@ -3,6 +3,10 @@ layout: default
 ---
 Benjamin Swartz Hartmann
 ---
+Sociology
+Doctoral Student
+Indiana Univeristy 
+
 Research Interests:
 ---
 social and symbolic boundaries; race and ethnicity; immigration; political sociology; computational social science
