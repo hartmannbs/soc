@@ -21,7 +21,7 @@ Additionally, I am passionate about methodology and methodological education. I 
 Current Projects:
 ---
 Short thing about projects
-[Link to page with project descriptions]()
+[Link to page with project descriptions](https://github.com/hartmannbs/socnerd/edit/master/projects.md)
 
 Research Interests:
 ---
