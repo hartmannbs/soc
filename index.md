@@ -15,7 +15,7 @@ My work focuses on how individuals make sense of social categorization. By under
 
 Additionally, I am passionate about methodology and methodological education. I am one of the co-coordinators for the Compuatioanl Social Science working group in the Sociology Department at Indiana University and coordinator workshops in statistical software for graduate students. I think about how sociologists can utilize computational lingiustics, quanitative text analysis, network analysis, and machine learning to test social theories and make sense of society. I am currently working on projects on using machine learning to automate coding for social texts (social media posts) and operationalizing ties in discourse/text networks. Additionally, I utilize schematic class/network analysis techniques in my substantive work on conceptualization of race.
 
-[See my CV for my research and teaching.](https://clanfear.github.io/ccl_cv/cv_one_column.html)
+[See my CV for my research and teaching.](link)
 
 ![Image from work](https://hartmannbs.github.io/sociology/images/cand_real.jpeg)
 
