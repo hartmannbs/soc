@@ -22,6 +22,9 @@ Research Interests:
 ---
 social and symbolic boundaries; race and ethnicity; immigration; political sociology; computational social science
 
+Teaching:
+---
+More info here
 [See my CV for my research and teaching.](link)
 
 
