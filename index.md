@@ -11,7 +11,7 @@ Biography:
 
 I earned earned a Bachelor of Science from the University of Minnesota in 2017 in Sociology and History with minors in Asian American Studies, Comparative Race and Ethnic Studies in the United States, and Statistics. I am currently a doctoral student in the Sociology Department at Indiana University studying race, immigration, political culture, and quantitative/computational methodology.
 
-![Image from work](https://hartmannbs.github.io/sociology/images/kernel_diff.jpeg)
+![Image from work](https://hartmannbs.github.io/sociology/images/kernel_diff.png)
 
 My work focuses on how individuals make sense of social categorization. By understanding the schemas through which individuals conceptualize race, I argue sociologists and policy-makers can better understand racial attitude in social surveys and how people make sense of racialized policy and racial justice. Additionally, I use social media data to analyze patterns of political dicourse and hate speech during the 2016 presidental election campaign.
 
