@@ -1,6 +1,8 @@
 Projects
 ---
 
+![Image from work](https://hartmannbs.github.io/sociology/img/ideological_alignment.jpeg)
+
 ## Hate Speech on Facebook ##
 Notes
 
