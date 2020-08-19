@@ -5,6 +5,13 @@ Benjamin Swartz Hartmann
 ---
 Sociologist studying racism/race, immigration, boundary processes, and political culture + computational sociology
 
+Affilations:
+---
+PhD Student in the Department of Sociology, Indiana University
+
+Political Economy, Ostrom Workshop at Indiana University
+Interdisciplinary Training in Complex Networks and Systems at Indiana University
+
 Biography:
 ---
 
