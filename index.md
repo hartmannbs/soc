@@ -9,8 +9,8 @@ Affilations:
 ---
 PhD Student in the Department of Sociology, Indiana University
 
-Political Economy, Ostrom Workshop at Indiana University
-Interdisciplinary Training in Complex Networks and Systems at Indiana University
+Political Economy Program in the Ostrom Workshop, Indiana University
+Interdisciplinary Training in Complex Networks and Systems, Indiana University
 
 Biography:
 ---
